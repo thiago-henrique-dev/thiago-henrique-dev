@@ -14,7 +14,7 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-henrique-dev&show_icons=true&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
   
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px" align="right"  alt="Computador iuriCode" />
 
