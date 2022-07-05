@@ -11,11 +11,11 @@
 <img height="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
  <img height="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
 <img height="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-henrique-dev&show_icons=true&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px" align="right"  alt="Computador iuriCode" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
+
 
 <hr/> 
