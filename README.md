@@ -15,7 +15,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px" align="right"  alt="Computador iuriCode" />
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-henrique-dev&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=5f585e&hide_border=true&locale=en&layout=compact" alt="thiagohenriquedev" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
+
 
 
 
