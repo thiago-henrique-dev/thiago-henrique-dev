@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
 
 <div>
 	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -32,10 +33,8 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/thiago-henrique-dev)
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px" align="right"  alt="Computador iuriCode" />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
+
 
 
 
