@@ -17,7 +17,7 @@
 	<img style="width:40px; height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 	<img style="width:40px; height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 	<img style="width:55px; height:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	<img style="width:55px; height:55px;" src="http://findicons.com/files/icons/2773/pictonic_free/32/prog_cobol.png" />
+	<img style="width:55px; height:55px;" src="http://cis198-2016s.github.io/slides/00/img/cobol.png" />
 	
 
 </div>	
