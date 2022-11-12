@@ -1,12 +1,11 @@
 ###  Hello, I'm Thiago Henrique, Welcome!
-Contacts
+
 
   <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <hr/> 
 </div>
 
-Technologies I currently use
 
 <div>
 	<img style="width:40px; height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -23,7 +22,6 @@ Technologies I currently use
 </div>	
 
 
-Sistema Operacionais:
 
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
