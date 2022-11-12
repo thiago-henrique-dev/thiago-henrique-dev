@@ -33,21 +33,3 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/thiago-henrique-dev)
-
-<div align="center">
-    <h2>Status e dados do GitHub 🏆</h2>
-</div>
-
-<p align="center">
-  <a href="https://github.com/thiago-henrique-dev/">
-    <img height="180em" alt="glauciodaniel stats" src="https://github-readme-stats.vercel.app/api?username=thiago-henrique-dev&show_icons=true&bg_color=DEG,555555,9e7d57&theme=react" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=react&line_height=27&bg_color=DEG,555555,9e7d57" style="max-width:100%;">
-  </a>
-</p>
-
-
-
-
-
-<hr/> 
-<div>
