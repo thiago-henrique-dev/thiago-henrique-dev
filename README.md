@@ -1,5 +1,5 @@
 <div align="center">
-###  Hello, I'm Thiago Henrique, Welcome!
+	<h1>Hello, I'm Thiago Henrique, Welcome!</h1>
 
 
   <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
