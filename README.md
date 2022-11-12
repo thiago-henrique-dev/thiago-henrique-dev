@@ -1,4 +1,5 @@
 <div align="center">
+	</hr>
 	<h1>Hello, I'm Thiago Henrique, Welcome!</h1>
 </br>
 
