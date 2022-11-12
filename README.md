@@ -19,13 +19,13 @@ Technologies I currently use
 
 </div>	
 
-<div>
+
 Sistema Operacionais:
-</div>
+<div>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-
+</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px" align="right"  alt="Computador iuriCode" />
   
