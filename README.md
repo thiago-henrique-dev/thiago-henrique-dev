@@ -5,6 +5,7 @@
 </div>
 
 Technologies I currently use
+<hr/> 
 <div>
 	<img style="width:40px; height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 	<img style="width:40px; height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -19,7 +20,7 @@ Technologies I currently use
 
 </div>	
 
-
+<hr/> 
 Sistema Operacionais:
 <hr/> 
 
