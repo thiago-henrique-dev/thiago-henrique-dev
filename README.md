@@ -1,3 +1,4 @@
+<div align="center">
 ###  Hello, I'm Thiago Henrique, Welcome!
 
 
@@ -40,3 +41,4 @@
 
 
 <hr/> 
+<div>
