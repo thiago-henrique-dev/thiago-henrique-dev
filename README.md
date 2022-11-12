@@ -7,20 +7,20 @@
 
 
 <div>
-	<img style="width:25px; height:25px; align-itens: center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 	<br/>
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	<img style="width:25px; height:25px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_cobol_icon_130684.png" />
-	<img style="width:25px; height:25px;" src="https://cdn.icon-icons.com/icons2/48/PNG/96/autocad_folder_file_10565.png" />
-	<img style="width:25px; height:25px;" src="https://cdn.icon-icons.com/icons2/195/PNG/96/Google_Sketchup_23504.png" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+	<img style="width:30px; height:30px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_cobol_icon_130684.png" />
+	<img style="width:30px; height:30px;" src="https://cdn.icon-icons.com/icons2/48/PNG/96/autocad_folder_file_10565.png" />
+	<img style="width:30px; height:30px;" src="https://cdn.icon-icons.com/icons2/195/PNG/96/Google_Sketchup_23504.png" />
 	
 
 </div>	
