@@ -7,7 +7,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
-
+</br>
 <div>
 	<img style="width:30px; height:30px; align-itens: center;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
