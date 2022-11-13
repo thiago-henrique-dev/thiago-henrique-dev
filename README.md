@@ -21,6 +21,7 @@
 	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 	<img style="width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 	<img style="width:30px; height:30px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_cobol_icon_130684.png" />
+	<img style="width:30px; height:30px;" src="https://img.icons8.com/color/512/docker.png" />
 	<img style="width:30px; height:30px;" src="https://cdn.icon-icons.com/icons2/48/PNG/96/autocad_folder_file_10565.png" />
 	<img style="width:30px; height:30px;" src="https://cdn.icon-icons.com/icons2/195/PNG/96/Google_Sketchup_23504.png" />
 	
