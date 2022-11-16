@@ -1,4 +1,6 @@
-		[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Thiago+Henrique.;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Thiago+Henrique.;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+</br>
 <div align="center">
 	</hr>
 
@@ -38,5 +40,4 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/thiago-henrique-dev)
 
-)
 
