@@ -1,6 +1,6 @@
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Thiago+Henrique.;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-</div>
+
 </br>
 <div align="center">
 	</hr>
