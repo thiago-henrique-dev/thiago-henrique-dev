@@ -5,6 +5,8 @@
 <div align="center">
 	</hr>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Thiago+Henrique.;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 </br>
 
   <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
