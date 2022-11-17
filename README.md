@@ -42,6 +42,6 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/thiago-henrique-dev)
 
-  ![Snake animation](https://github.com/thiago-henrique-dev/thiago-henrique-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thiago-henrique-dev/blob/output/github-contribution-grid-snake.svg)
 
 
