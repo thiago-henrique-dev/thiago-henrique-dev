@@ -6,7 +6,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Thiago+Henrique.;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+<h3 align='center'>Tourist count: <img src='https://visitor-badge.laobi.icu/badge?page_id=German-Cobian'></h3>
+
+  <br>
 </br>
+
+```javascript
+const webDeveloper = {
+  name:"My name is Thiago Henrique",
+  goal: "I'm a 22 year old coding aficionado with an intention to become a successful full-stack web developer",
+  lookingFor: ["Full-stack web developer", "Front-end web developer"],
+  frontEnd: ["JavaScript", "React", "HTML5", "CSS3", "Bootstrap"],
+  backEnd:["Ruby", "Rails", "MySQL", "NodeJs],
+  
+}
+```
 
   <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
