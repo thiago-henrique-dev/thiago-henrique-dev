@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Thiago+Henrique.;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<h1 align='center'>visits: <img src='https://visitor-badge.laobi.icu/badge?page_id=German-Cobian'></h1>
+<h1 align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=German-Cobian'></h1>
 
   <br>
 </br>
