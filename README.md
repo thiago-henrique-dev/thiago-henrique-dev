@@ -24,7 +24,13 @@ const webDeveloper = {
   <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&theme=radical)](https://github.com/thiago-henrique-dev/github-readme-stats)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rloterh&show_icons=true&count_private=true&theme=gradient&include_all_commits=true&count_private=true&hide_border=true,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rloterh&layout=compact&hide_border=true&theme=gradient&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rloterh&theme=tokyonight&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+ </p>
 </br>
 <div>
 	<img style="width:30px; height:30px; align-itens: center;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
