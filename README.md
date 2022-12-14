@@ -49,6 +49,10 @@ const webDeveloper = {
 	<img style="width:30px; height:30px;" src="https://cdn.icon-icons.com/icons2/195/PNG/96/Google_Sketchup_23504.png" />
 </div>	
 </br>
+
+
+</div>	
+</br>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/thiago-henrique-dev)
