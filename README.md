@@ -25,9 +25,8 @@ const webDeveloper = {
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </br>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rloterh&show_icons=true&count_private=true&theme=gradient&include_all_commits=true&count_private=true&hide_border=true,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rloterh&layout=compact&hide_border=true&theme=gradient&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rloterh&theme=tokyonight&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&hide_border=true&theme=gradient&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=thiago-henrique-dev&theme=tokyonight&hide_border=true&background=FFFFFF00">
   <br>
   <br>
  </p>
