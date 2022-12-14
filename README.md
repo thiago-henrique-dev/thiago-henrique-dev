@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Thiago+Henrique.;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<h3 align='center'>visits:<img src='https://visitor-badge.laobi.icu/badge?page_id=German-Cobian'></h3>
+<h1 align='center'>visits: <img src='https://visitor-badge.laobi.icu/badge?page_id=German-Cobian'></h1>
 
   <br>
 </br>
@@ -20,7 +20,6 @@ const webDeveloper = {
   backEnd:["Ruby", "Rails", "MySQL", "NodeJs"]
 }
 ```
-
   <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </br>
@@ -48,14 +47,8 @@ const webDeveloper = {
 		<img style="width:30px; height:30px;" src="https://img.icons8.com/color/512/linux.png" />
 	<img style="width:30px; height:30px;" src="https://img.icons8.com/color/512/autodesk-autocad.png" />
 	<img style="width:30px; height:30px;" src="https://cdn.icon-icons.com/icons2/195/PNG/96/Google_Sketchup_23504.png" />
-	
-
 </div>	
-
 </br>
-
-
-
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/thiago-henrique-dev)
