@@ -6,11 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Thiago+Henrique.;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<p align="center">
-    <a href="https://github.com/D3Ext?tab=followers">
-        <img alt="Followers" src="https://img.shields.io/github/followers/thiagohenriquedev?style=for-the-badge&logo=starship&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"/>
-    </a><br>
-</p>
+<h1 align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=German-Cobian'></h1>
   <br>
 </br>
 
