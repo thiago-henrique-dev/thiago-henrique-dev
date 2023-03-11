@@ -16,7 +16,8 @@ const webDeveloper = {
   goal: "I'm a 23 year old coding aficionado with an intention to become a successful full-stack web developer",
   lookingFor: ["Full-stack web developer"],
   frontEnd: ["JavaScript", "React", "HTML5", "CSS3", "Bootstrap"],
-  backEnd:["Ruby", "Rails", "MySQL", "NodeJs"]
+  backEnd:["Ruby", "Rails", "MySQL", "NodeJs"],
+  Student:["Java","Docker", "AWS"]
 }
 ```
   <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
