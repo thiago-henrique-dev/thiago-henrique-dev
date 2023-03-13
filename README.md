@@ -17,7 +17,7 @@ const webDeveloper = {
   lookingFor: ["Full-stack web developer"],
   frontEnd: ["JavaScript", "React", "HTML5", "CSS3", "Bootstrap"],
   backEnd:["Ruby", "Rails", "MySQL", "NodeJs"],
-  Student:["Java","Docker", "AWS"]
+  Student:["Java", "Spring Boot", "Docker", "AWS"]
 }
 ```
   <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
