@@ -19,7 +19,8 @@ const webDeveloper = {
   Student:["Java", "Spring Boot", "Docker", "AWS"]
 }
 ```
-  <a href="mailto:thiagohenriquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&langs_count=7&theme=dracula"/>
+
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/thiago-henrique-dev)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/thiago-henrique-dev)
