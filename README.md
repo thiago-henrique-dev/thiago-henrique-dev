@@ -19,6 +19,7 @@ const webDeveloper = {
   Student:["Java", "Spring Boot", "Docker", "AWS"]
 }
 ```
+  
   <img height="200em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&theme=thiago-henrique-dev&layout=compact)"/>
 
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
