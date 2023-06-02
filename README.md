@@ -19,7 +19,7 @@ const webDeveloper = {
   Student:["Java", "Spring Boot", "Docker", "AWS"]
 }
 ```
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-henrique-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)"/>
 
   <a href="https://www.linkedin.com/in/thiago-henrique-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/thiago-henrique-dev)
